@@ -1,0 +1,14 @@
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\bin\Debug\netcoreapp2.1\NoSqlLab.deps.json
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\bin\Debug\netcoreapp2.1\NoSqlLab.runtimeconfig.json
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\bin\Debug\netcoreapp2.1\NoSqlLab.runtimeconfig.dev.json
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\bin\Debug\netcoreapp2.1\NoSqlLab.dll
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.csprojAssemblyReference.cache
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.RazorAssemblyInfo.cache
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.RazorAssemblyInfo.cs
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.AssemblyInfoInputs.cache
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.AssemblyInfo.cs
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.RazorTargetAssemblyInfo.cache
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\bin\Debug\netcoreapp2.1\NoSqlLab.pdb
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.dll
+C:\Users\lucky\source\repos\NoSqlLab\NoSqlLab\obj\Debug\netcoreapp2.1\NoSqlLab.pdb
